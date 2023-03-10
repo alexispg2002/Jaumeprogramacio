@@ -1,7 +1,7 @@
 package Astros;
 
 public class Astros {
-	
+	/* */
 	protected double radioecuatorial;
 	protected double rotacionsobresueje;
 	protected double masa;
