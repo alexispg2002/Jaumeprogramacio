@@ -4,7 +4,7 @@ public class MiniFileManager {
 
     private File ruta = new File(System.getProperty("user.home"));
 
-    File ruta;
+
     public String getPWD(){
         return "Hola";
     }
